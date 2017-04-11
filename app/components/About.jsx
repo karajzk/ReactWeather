@@ -1,7 +1,7 @@
 var React = require('react');
 
 var About = () => (
-    <h3>About component</h3>
+    <h1 className="text-center">About component</h1>
   );
 
 module.exports = About;
